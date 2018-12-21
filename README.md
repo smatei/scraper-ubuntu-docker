@@ -108,7 +108,7 @@ mvn exec:java
 >
 >         ... 1 more
 
-## Run outside container (my Windows 10 machine)
+## Run outside container (Windows 10 machine or CentOS machine)
 
 > PS D:\_git_mine\scraper-ubuntu-docker> mvn exec:java
 >
