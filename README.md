@@ -1,5 +1,7 @@
 # scraper-ubuntu-docker
 
+create docker image with oracle jdk and run a jbrowserdriver test
+
 ## build Docker test image
 
 docker build --no-cache -t scraper-test-ubuntu .
